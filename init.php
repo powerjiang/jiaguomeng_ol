@@ -130,6 +130,17 @@ $GLOBALS['policy_center'] = array(
 		'policy_data_bus' => 1200,
 		'policy_data_all' => 400,
 	),
+	array(
+		'policy_data_all_ol' => 800,
+		'policy_data_res' => 2400,
+		'policy_data_all' => 800,
+	),
+	array(
+		'policy_data_ind' => 3600,
+		'policy_data_bus' => 3600,
+		'policy_data_res' => 3600,
+		'policy_data_all' => 1200,
+	),
 );
 
 
